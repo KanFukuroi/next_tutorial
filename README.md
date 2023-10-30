@@ -1,2 +1,2 @@
-# next_tutorial
-nextのtutorial
+# nextjs-dashboard
+next tutorial
